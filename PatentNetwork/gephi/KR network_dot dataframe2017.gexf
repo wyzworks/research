@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-08-07">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="이윤성" label="이윤성" />
+      <node id="국방과학연구소" label="국방과학연구소" />
+      <node id="한국전자통신연구원" label="한국전자통신연구원" />
+      <node id="고려대학교산학협력단" label="고려대학교산학협력단" />
+      <node id="이상권" label="이상권" />
+      <node id="(주)스마트모션" label="(주)스마트모션" />
+      <node id="케이엔알스페이스(주)" label="케이엔알스페이스(주)" />
+      <node id="동명대학교산학협력단" label="동명대학교산학협력단" />
+      <node id="윤태기" label="윤태기" />
+      <node id="공간정보기술주식회사" label="공간정보기술주식회사" />
+      <node id="창원대학교산학협력단" label="창원대학교산학협력단" />
+      <node id="(주)두산모빌리티이노베이션" label="(주)두산모빌리티이노베이션" />
+      <node id="엔드론주식회사" label="엔드론주식회사" />
+      <node id="주식회사스카이텍" label="주식회사스카이텍" />
+      <node id="광저우엑스에어크래프트테크놀로지씨오엘티디" label="광저우엑스에어크래프트테크놀로지씨오엘티디" />
+      <node id="강종수" label="강종수" />
+      <node id="한국항공우주산업주식회사" label="한국항공우주산업주식회사" />
+      <node id="주식회사우주공간정보" label="주식회사우주공간정보" />
+      <node id="주식회사평강비아이엠" label="주식회사평강비아이엠" />
+      <node id="한국전력공사" label="한국전력공사" />
+      <node id="(주)동연시스템" label="(주)동연시스템" />
+      <node id="더보잉컴파니" label="더보잉컴파니" />
+      <node id="주식회사솔탑" label="주식회사솔탑" />
+      <node id="유학철" label="유학철" />
+      <node id="유로빈" label="유로빈" />
+      <node id="홍승일" label="홍승일" />
+      <node id="한화시스템주식회사" label="한화시스템주식회사" />
+      <node id="(주)지이에스" label="(주)지이에스" />
+      <node id="홍성호" label="홍성호" />
+      <node id="주식회사스마티" label="주식회사스마티" />
+      <node id="김영식" label="김영식" />
+      <node id="주식회사로보프렌레스큐" label="주식회사로보프렌레스큐" />
+      <node id="(주)키스코이앤엠" label="(주)키스코이앤엠" />
+      <node id="삼성전자주식회사" label="삼성전자주식회사" />
+      <node id="한국항공우주연구원" label="한국항공우주연구원" />
+      <node id="주식회사로텀" label="주식회사로텀" />
+      <node id="안진섭" label="안진섭" />
+      <node id="주식회사피스퀘어" label="주식회사피스퀘어" />
+      <node id="박순구" label="박순구" />
+      <node id="한국항공대학교산학협력단" label="한국항공대학교산학협력단" />
+      <node id="국방기술품질원" label="국방기술품질원" />
+      <node id="정웅연" label="정웅연" />
+      <node id="김부곤" label="김부곤" />
+      <node id="동서대학교산학협력단" label="동서대학교산학협력단" />
+      <node id="경희대학교산학협력단" label="경희대학교산학협력단" />
+      <node id="울산과학기술원" label="울산과학기술원" />
+      <node id="경남대학교산학협력단" label="경남대학교산학협력단" />
+      <node id="하상균" label="하상균" />
+      <node id="현대자동차주식회사" label="현대자동차주식회사" />
+      <node id="기아주식회사" label="기아주식회사" />
+      <node id="이명근" label="이명근" />
+      <node id="주식회사두시텍" label="주식회사두시텍" />
+      <node id="경일대학교산학협력단" label="경일대학교산학협력단" />
+      <node id="주식회사우리창우종합건축사사무소" label="주식회사우리창우종합건축사사무소" />
+      <node id="주식회사네스앤텍" label="주식회사네스앤텍" />
+      <node id="김정숙" label="김정숙" />
+      <node id="제톱테라잉크." label="제톱테라잉크." />
+      <node id="주식회사한울시스" label="주식회사한울시스" />
+      <node id="장찬욱" label="장찬욱" />
+      <node id="유효정" label="유효정" />
+      <node id="코아글림주식회사" label="코아글림주식회사" />
+      <node id="드로젠(주)" label="드로젠(주)" />
+      <node id="주식회사썬플라워즈" label="주식회사썬플라워즈" />
+      <node id="섀로우엔지니어링엘엘씨" label="섀로우엔지니어링엘엘씨" />
+      <node id="(주)스페이스" label="(주)스페이스" />
+      <node id="충남대학교산학협력단" label="충남대학교산학협력단" />
+      <node id="한국건설기술연구원" label="한국건설기술연구원" />
+      <node id="김자유" label="김자유" />
+      <node id="한국해양과학기술원" label="한국해양과학기술원" />
+      <node id="현대오토에버주식회사" label="현대오토에버주식회사" />
+      <node id="전주비전대학교산학협력단" label="전주비전대학교산학협력단" />
+      <node id="주식회사금강이엔지" label="주식회사금강이엔지" />
+      <node id="한밭대학교산학협력단" label="한밭대학교산학협력단" />
+      <node id="에어버스헬리콥터스도이칠란트게엠베하" label="에어버스헬리콥터스도이칠란트게엠베하" />
+      <node id="김용옥" label="김용옥" />
+      <node id="(주)자이언트드론" label="(주)자이언트드론" />
+      <node id="(주)텔트론" label="(주)텔트론" />
+      <node id="용비에이티(주)" label="용비에이티(주)" />
+      <node id="주식회사대한항공" label="주식회사대한항공" />
+      <node id="경상국립대학교산학협력단" label="경상국립대학교산학협력단" />
+      <node id="이노넷주식회사" label="이노넷주식회사" />
+      <node id="사단법인캠틱종합기술원" label="사단법인캠틱종합기술원" />
+      <node id="방성기" label="방성기" />
+      <node id="한울주식회사" label="한울주식회사" />
+      <node id="(주)아세아항측" label="(주)아세아항측" />
+      <node id="강원대학교산학협력단" label="강원대학교산학협력단" />
+      <node id="세종대학교산학협력단" label="세종대학교산학협력단" />
+      <node id="텔레호낙티에볼라게트엘엠에릭슨(피유비엘)" label="텔레호낙티에볼라게트엘엠에릭슨(피유비엘)" />
+      <node id="대한민국(행정안전부국립재난안전연구원장)" label="대한민국(행정안전부국립재난안전연구원장)" />
+      <node id="인하대학교산학협력단" label="인하대학교산학협력단" />
+      <node id="한국과학기술원" label="한국과학기술원" />
+      <node id="해성옵틱스(주)" label="해성옵틱스(주)" />
+      <node id="퍼스텍주식회사" label="퍼스텍주식회사" />
+      <node id="김은종" label="김은종" />
+      <node id="(주)대우건설" label="(주)대우건설" />
+      <node id="신용겸" label="신용겸" />
+      <node id="광운대학교산학협력단" label="광운대학교산학협력단" />
+      <node id="안영섭" label="안영섭" />
+      <node id="국립대학법인홋가이도다이가쿠" label="국립대학법인홋가이도다이가쿠" />
+      <node id="에어로바이론먼트,인크." label="에어로바이론먼트,인크." />
+      <node id="문창근" label="문창근" />
+      <node id="농업회사법인(주)유프레시" label="농업회사법인(주)유프레시" />
+      <node id="주식회사한화" label="주식회사한화" />
+      <node id="주식회사천풍" label="주식회사천풍" />
+      <node id="김인철" label="김인철" />
+      <node id="김종성" label="김종성" />
+      <node id="최영준" label="최영준" />
+    </nodes>
+    <edges>
+      <edge source="이윤성" target="이윤성" id="0" weight="1.0" />
+      <edge source="국방과학연구소" target="국방과학연구소" id="1" weight="7.0" />
+      <edge source="국방과학연구소" target="한국전자통신연구원" id="2" weight="1.0" />
+      <edge source="국방과학연구소" target="고려대학교산학협력단" id="3" weight="1.0" />
+      <edge source="국방과학연구소" target="이상권" id="4" weight="1.0" />
+      <edge source="한국전자통신연구원" target="한국전자통신연구원" id="5" weight="1.0" />
+      <edge source="한국전자통신연구원" target="고려대학교산학협력단" id="6" weight="1.0" />
+      <edge source="한국전자통신연구원" target="이상권" id="7" weight="1.0" />
+      <edge source="고려대학교산학협력단" target="고려대학교산학협력단" id="8" weight="1.0" />
+      <edge source="고려대학교산학협력단" target="이상권" id="9" weight="1.0" />
+      <edge source="이상권" target="이상권" id="10" weight="1.0" />
+      <edge source="(주)스마트모션" target="(주)스마트모션" id="11" weight="1.0" />
+      <edge source="케이엔알스페이스(주)" target="케이엔알스페이스(주)" id="12" weight="2.0" />
+      <edge source="케이엔알스페이스(주)" target="동명대학교산학협력단" id="13" weight="1.0" />
+      <edge source="동명대학교산학협력단" target="동명대학교산학협력단" id="14" weight="1.0" />
+      <edge source="윤태기" target="윤태기" id="15" weight="2.0" />
+      <edge source="공간정보기술주식회사" target="공간정보기술주식회사" id="16" weight="3.0" />
+      <edge source="공간정보기술주식회사" target="창원대학교산학협력단" id="17" weight="1.0" />
+      <edge source="창원대학교산학협력단" target="창원대학교산학협력단" id="18" weight="1.0" />
+      <edge source="(주)두산모빌리티이노베이션" target="(주)두산모빌리티이노베이션" id="19" weight="1.0" />
+      <edge source="엔드론주식회사" target="엔드론주식회사" id="20" weight="1.0" />
+      <edge source="주식회사스카이텍" target="주식회사스카이텍" id="21" weight="1.0" />
+      <edge source="광저우엑스에어크래프트테크놀로지씨오엘티디" target="광저우엑스에어크래프트테크놀로지씨오엘티디" id="22" weight="3.0" />
+      <edge source="강종수" target="강종수" id="23" weight="2.0" />
+      <edge source="한국항공우주산업주식회사" target="한국항공우주산업주식회사" id="24" weight="5.0" />
+      <edge source="주식회사우주공간정보" target="주식회사우주공간정보" id="25" weight="1.0" />
+      <edge source="주식회사평강비아이엠" target="주식회사평강비아이엠" id="26" weight="1.0" />
+      <edge source="한국전력공사" target="한국전력공사" id="27" weight="1.0" />
+      <edge source="(주)동연시스템" target="(주)동연시스템" id="28" weight="1.0" />
+      <edge source="더보잉컴파니" target="더보잉컴파니" id="29" weight="2.0" />
+      <edge source="주식회사솔탑" target="주식회사솔탑" id="30" weight="1.0" />
+      <edge source="유학철" target="유학철" id="31" weight="1.0" />
+      <edge source="유학철" target="유로빈" id="32" weight="1.0" />
+      <edge source="유로빈" target="유로빈" id="33" weight="1.0" />
+      <edge source="홍승일" target="홍승일" id="34" weight="1.0" />
+      <edge source="한화시스템주식회사" target="한화시스템주식회사" id="35" weight="4.0" />
+      <edge source="(주)지이에스" target="(주)지이에스" id="36" weight="1.0" />
+      <edge source="홍성호" target="홍성호" id="37" weight="1.0" />
+      <edge source="주식회사스마티" target="주식회사스마티" id="38" weight="1.0" />
+      <edge source="김영식" target="김영식" id="39" weight="1.0" />
+      <edge source="김영식" target="주식회사로보프렌레스큐" id="40" weight="1.0" />
+      <edge source="주식회사로보프렌레스큐" target="주식회사로보프렌레스큐" id="41" weight="1.0" />
+      <edge source="(주)키스코이앤엠" target="(주)키스코이앤엠" id="42" weight="1.0" />
+      <edge source="삼성전자주식회사" target="삼성전자주식회사" id="43" weight="3.0" />
+      <edge source="한국항공우주연구원" target="한국항공우주연구원" id="44" weight="5.0" />
+      <edge source="주식회사로텀" target="주식회사로텀" id="45" weight="1.0" />
+      <edge source="안진섭" target="안진섭" id="46" weight="1.0" />
+      <edge source="안진섭" target="주식회사피스퀘어" id="47" weight="1.0" />
+      <edge source="주식회사피스퀘어" target="주식회사피스퀘어" id="48" weight="1.0" />
+      <edge source="박순구" target="박순구" id="49" weight="1.0" />
+      <edge source="한국항공대학교산학협력단" target="한국항공대학교산학협력단" id="50" weight="1.0" />
+      <edge source="한국항공대학교산학협력단" target="국방기술품질원" id="51" weight="1.0" />
+      <edge source="국방기술품질원" target="국방기술품질원" id="52" weight="1.0" />
+      <edge source="정웅연" target="정웅연" id="53" weight="1.0" />
+      <edge source="김부곤" target="김부곤" id="54" weight="1.0" />
+      <edge source="동서대학교산학협력단" target="동서대학교산학협력단" id="55" weight="1.0" />
+      <edge source="경희대학교산학협력단" target="경희대학교산학협력단" id="56" weight="2.0" />
+      <edge source="울산과학기술원" target="울산과학기술원" id="57" weight="1.0" />
+      <edge source="경남대학교산학협력단" target="경남대학교산학협력단" id="58" weight="1.0" />
+      <edge source="하상균" target="하상균" id="59" weight="1.0" />
+      <edge source="현대자동차주식회사" target="현대자동차주식회사" id="60" weight="1.0" />
+      <edge source="현대자동차주식회사" target="기아주식회사" id="61" weight="1.0" />
+      <edge source="기아주식회사" target="기아주식회사" id="62" weight="1.0" />
+      <edge source="이명근" target="이명근" id="63" weight="1.0" />
+      <edge source="주식회사두시텍" target="주식회사두시텍" id="64" weight="1.0" />
+      <edge source="경일대학교산학협력단" target="경일대학교산학협력단" id="65" weight="1.0" />
+      <edge source="주식회사우리창우종합건축사사무소" target="주식회사우리창우종합건축사사무소" id="66" weight="1.0" />
+      <edge source="주식회사네스앤텍" target="주식회사네스앤텍" id="67" weight="1.0" />
+      <edge source="김정숙" target="김정숙" id="68" weight="1.0" />
+      <edge source="제톱테라잉크." target="제톱테라잉크." id="69" weight="4.0" />
+      <edge source="주식회사한울시스" target="주식회사한울시스" id="70" weight="1.0" />
+      <edge source="장찬욱" target="장찬욱" id="71" weight="1.0" />
+      <edge source="장찬욱" target="유효정" id="72" weight="1.0" />
+      <edge source="장찬욱" target="코아글림주식회사" id="73" weight="1.0" />
+      <edge source="유효정" target="유효정" id="74" weight="1.0" />
+      <edge source="유효정" target="코아글림주식회사" id="75" weight="1.0" />
+      <edge source="코아글림주식회사" target="코아글림주식회사" id="76" weight="1.0" />
+      <edge source="드로젠(주)" target="드로젠(주)" id="77" weight="1.0" />
+      <edge source="주식회사썬플라워즈" target="주식회사썬플라워즈" id="78" weight="1.0" />
+      <edge source="섀로우엔지니어링엘엘씨" target="섀로우엔지니어링엘엘씨" id="79" weight="9.0" />
+      <edge source="(주)스페이스" target="(주)스페이스" id="80" weight="3.0" />
+      <edge source="충남대학교산학협력단" target="충남대학교산학협력단" id="81" weight="1.0" />
+      <edge source="충남대학교산학협력단" target="한국건설기술연구원" id="82" weight="1.0" />
+      <edge source="한국건설기술연구원" target="한국건설기술연구원" id="83" weight="1.0" />
+      <edge source="김자유" target="김자유" id="84" weight="1.0" />
+      <edge source="한국해양과학기술원" target="한국해양과학기술원" id="85" weight="1.0" />
+      <edge source="현대오토에버주식회사" target="현대오토에버주식회사" id="86" weight="1.0" />
+      <edge source="전주비전대학교산학협력단" target="전주비전대학교산학협력단" id="87" weight="1.0" />
+      <edge source="전주비전대학교산학협력단" target="주식회사금강이엔지" id="88" weight="1.0" />
+      <edge source="주식회사금강이엔지" target="주식회사금강이엔지" id="89" weight="1.0" />
+      <edge source="한밭대학교산학협력단" target="한밭대학교산학협력단" id="90" weight="1.0" />
+      <edge source="에어버스헬리콥터스도이칠란트게엠베하" target="에어버스헬리콥터스도이칠란트게엠베하" id="91" weight="2.0" />
+      <edge source="김용옥" target="김용옥" id="92" weight="4.0" />
+      <edge source="(주)자이언트드론" target="(주)자이언트드론" id="93" weight="1.0" />
+      <edge source="(주)텔트론" target="(주)텔트론" id="94" weight="1.0" />
+      <edge source="용비에이티(주)" target="용비에이티(주)" id="95" weight="2.0" />
+      <edge source="주식회사대한항공" target="주식회사대한항공" id="96" weight="1.0" />
+      <edge source="경상국립대학교산학협력단" target="경상국립대학교산학협력단" id="97" weight="1.0" />
+      <edge source="이노넷주식회사" target="이노넷주식회사" id="98" weight="1.0" />
+      <edge source="사단법인캠틱종합기술원" target="사단법인캠틱종합기술원" id="99" weight="1.0" />
+      <edge source="방성기" target="방성기" id="100" weight="1.0" />
+      <edge source="한울주식회사" target="한울주식회사" id="101" weight="1.0" />
+      <edge source="(주)아세아항측" target="(주)아세아항측" id="102" weight="1.0" />
+      <edge source="강원대학교산학협력단" target="강원대학교산학협력단" id="103" weight="1.0" />
+      <edge source="세종대학교산학협력단" target="세종대학교산학협력단" id="104" weight="2.0" />
+      <edge source="텔레호낙티에볼라게트엘엠에릭슨(피유비엘)" target="텔레호낙티에볼라게트엘엠에릭슨(피유비엘)" id="105" weight="1.0" />
+      <edge source="대한민국(행정안전부국립재난안전연구원장)" target="대한민국(행정안전부국립재난안전연구원장)" id="106" weight="1.0" />
+      <edge source="인하대학교산학협력단" target="인하대학교산학협력단" id="107" weight="1.0" />
+      <edge source="한국과학기술원" target="한국과학기술원" id="108" weight="5.0" />
+      <edge source="해성옵틱스(주)" target="해성옵틱스(주)" id="109" weight="1.0" />
+      <edge source="퍼스텍주식회사" target="퍼스텍주식회사" id="110" weight="1.0" />
+      <edge source="퍼스텍주식회사" target="김은종" id="111" weight="1.0" />
+      <edge source="김은종" target="김은종" id="112" weight="1.0" />
+      <edge source="(주)대우건설" target="(주)대우건설" id="113" weight="1.0" />
+      <edge source="(주)대우건설" target="신용겸" id="114" weight="1.0" />
+      <edge source="신용겸" target="신용겸" id="115" weight="1.0" />
+      <edge source="광운대학교산학협력단" target="광운대학교산학협력단" id="116" weight="1.0" />
+      <edge source="안영섭" target="안영섭" id="117" weight="1.0" />
+      <edge source="국립대학법인홋가이도다이가쿠" target="국립대학법인홋가이도다이가쿠" id="118" weight="1.0" />
+      <edge source="에어로바이론먼트,인크." target="에어로바이론먼트,인크." id="119" weight="1.0" />
+      <edge source="문창근" target="문창근" id="120" weight="1.0" />
+      <edge source="농업회사법인(주)유프레시" target="농업회사법인(주)유프레시" id="121" weight="1.0" />
+      <edge source="주식회사한화" target="주식회사한화" id="122" weight="1.0" />
+      <edge source="주식회사천풍" target="주식회사천풍" id="123" weight="1.0" />
+      <edge source="김인철" target="김인철" id="124" weight="1.0" />
+      <edge source="김종성" target="김종성" id="125" weight="1.0" />
+      <edge source="김종성" target="최영준" id="126" weight="1.0" />
+      <edge source="최영준" target="최영준" id="127" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-08-06">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="ExpressScriptsStrategicDevelopment,Inc." label="ExpressScriptsStrategicDevelopment,Inc." />
+      <node id="WorkhorseGroupInc." label="WorkhorseGroupInc." />
+      <node id="STATEFARMMUTUALAUTOMOBILEINSURANCECOMPANY" label="STATEFARMMUTUALAUTOMOBILEINSURANCECOMPANY" />
+      <node id="BETAAIR,LLC" label="BETAAIR,LLC" />
+      <node id="ARCHERAVIATION,INC." label="ARCHERAVIATION,INC." />
+      <node id="DariusSharifzadeh" label="DariusSharifzadeh" />
+      <node id="ArcherAviation,Inc." label="ArcherAviation,Inc." />
+      <node id="JBTAEROTECHCORPORATION" label="JBTAEROTECHCORPORATION" />
+      <node id="AIRBUSHELICOPTERS" label="AIRBUSHELICOPTERS" />
+      <node id="FERRARISPOWERCO.,LTD" label="FERRARISPOWERCO.,LTD" />
+      <node id="DRONEUP,LLC" label="DRONEUP,LLC" />
+      <node id="SZDJITECHNOLOGYCO.,LTD." label="SZDJITECHNOLOGYCO.,LTD." />
+      <node id="TextronInnovationsInc." label="TextronInnovationsInc." />
+      <node id="ExodigoLtd." label="ExodigoLtd." />
+      <node id="Skydio,Inc." label="Skydio,Inc." />
+      <node id="GEOFRENZY,INC." label="GEOFRENZY,INC." />
+      <node id="Overair,Inc." label="Overair,Inc." />
+      <node id="KittyHawkCorporation" label="KittyHawkCorporation" />
+      <node id="JobyAero,Inc." label="JobyAero,Inc." />
+      <node id="HOODTECHNOLOGYCORPORATION" label="HOODTECHNOLOGYCORPORATION" />
+      <node id="ArcherAviationInc." label="ArcherAviationInc." />
+      <node id="LogiCom&amp;WirelessLtd." label="LogiCom&amp;WirelessLtd." />
+      <node id="JGENTREPRENEURIALENTERPRISESLLC" label="JGENTREPRENEURIALENTERPRISESLLC" />
+      <node id="ShanghaiAutoflightCo.,Ltd." label="ShanghaiAutoflightCo.,Ltd." />
+      <node id="Ampaire,Inc." label="Ampaire,Inc." />
+      <node id="UnmannedAerospaceLLC" label="UnmannedAerospaceLLC" />
+      <node id="HONDAMOTORCO.,LTD." label="HONDAMOTORCO.,LTD." />
+      <node id="LowentalHybrid" label="LowentalHybrid" />
+      <node id="TOYOTAMOTORENGINEERING&amp;MANUFACTURINGNORTHAMERICA,INC." label="TOYOTAMOTORENGINEERING&amp;MANUFACTURINGNORTHAMERICA,INC." />
+      <node id="UATC,LLC" label="UATC,LLC" />
+      <node id="JalalBolouri" label="JalalBolouri" />
+      <node id="TransnormSystemGmbH" label="TransnormSystemGmbH" />
+      <node id="BlueHalo,LLC" label="BlueHalo,LLC" />
+      <node id="CHENGDUQINCHUANIOTTECHNOLOGYCO.,LTD." label="CHENGDUQINCHUANIOTTECHNOLOGYCO.,LTD." />
+      <node id="OleksandrVolodymyrovychSTEPURA" label="OleksandrVolodymyrovychSTEPURA" />
+      <node id="MykolaMykolaiovychTOPTUN" label="MykolaMykolaiovychTOPTUN" />
+      <node id="NATIONALUNIVERSITYOFDEFENSETECHNOLOGY" label="NATIONALUNIVERSITYOFDEFENSETECHNOLOGY" />
+      <node id="NXPAeronauticsResearch,LLC" label="NXPAeronauticsResearch,LLC" />
+      <node id="DisneyEnterprises,Inc." label="DisneyEnterprises,Inc." />
+      <node id="MITSUBISHIHEAVYINDUSTRIES,LTD." label="MITSUBISHIHEAVYINDUSTRIES,LTD." />
+      <node id="GeneralElectricCompany" label="GeneralElectricCompany" />
+      <node id="1AHEADTechnologies" label="1AHEADTechnologies" />
+      <node id="CandoDronesLtd." label="CandoDronesLtd." />
+      <node id="NelsonTyler" label="NelsonTyler" />
+      <node id="AndrewWise" label="AndrewWise" />
+      <node id="CharterCommunicationsOperating,LLC" label="CharterCommunicationsOperating,LLC" />
+      <node id="DeepScience,LLC" label="DeepScience,LLC" />
+      <node id="HamiltonSundstrandCorporation" label="HamiltonSundstrandCorporation" />
+      <node id="TheUnitedStatesofAmericaasrepresentedbytheSecretaryoftheNavy" label="TheUnitedStatesofAmericaasrepresentedbytheSecretaryoftheNavy" />
+      <node id="Ensign-BickfordAerospace&amp;DefenseCompany" label="Ensign-BickfordAerospace&amp;DefenseCompany" />
+      <node id="NeilButtermore" label="NeilButtermore" />
+      <node id="TheUnitedStatesofAmerica,asrepresentedbytheSecretaryoftheNavy" label="TheUnitedStatesofAmerica,asrepresentedbytheSecretaryoftheNavy" />
+      <node id="MistMobilityIntegratedSystemsTechnologyInc." label="MistMobilityIntegratedSystemsTechnologyInc." />
+      <node id="CameronCarnegie" label="CameronCarnegie" />
+      <node id="AIRBUSHELICOPTERSDEUTSCHLANDGMBH" label="AIRBUSHELICOPTERSDEUTSCHLANDGMBH" />
+      <node id="CalectiveLLC" label="CalectiveLLC" />
+      <node id="HyundaiMotorCompany" label="HyundaiMotorCompany" />
+      <node id="KiaCorporation" label="KiaCorporation" />
+      <node id="TheBoeingCompany" label="TheBoeingCompany" />
+      <node id="RAYTHEONTECHNOLOGIESCORPORATION" label="RAYTHEONTECHNOLOGIESCORPORATION" />
+      <node id="TsinghuaUniversity" label="TsinghuaUniversity" />
+      <node id="ANARKYLABSOY" label="ANARKYLABSOY" />
+      <node id="MerlinLabs,Inc." label="MerlinLabs,Inc." />
+      <node id="Rolls-RoyceDeutschlandLtd&amp;CoKG" label="Rolls-RoyceDeutschlandLtd&amp;CoKG" />
+      <node id="HoneywellInternationalInc." label="HoneywellInternationalInc." />
+      <node id="PierceCraftIPLtd." label="PierceCraftIPLtd." />
+      <node id="REGENTCraftInc." label="REGENTCraftInc." />
+      <node id="THE28THRESEARCHINSTITUTEOFCHINAELECTRONICSTECHNOLOGYGROUPCORPORATION" label="THE28THRESEARCHINSTITUTEOFCHINAELECTRONICSTECHNOLOGYGROUPCORPORATION" />
+      <node id="HotaluX,Ltd." label="HotaluX,Ltd." />
+      <node id="SOUTHEASTUNIVERSITY" label="SOUTHEASTUNIVERSITY" />
+      <node id="ZIMAIRCRAFTSEATINGGMBH" label="ZIMAIRCRAFTSEATINGGMBH" />
+      <node id="RaffelSystems,LLC" label="RaffelSystems,LLC" />
+      <node id="IlyaDanielRosenberg" label="IlyaDanielRosenberg" />
+      <node id="JohnDanielRomo" label="JohnDanielRomo" />
+      <node id="RaytheonTechnologiesCorporation" label="RaytheonTechnologiesCorporation" />
+      <node id="Dr.Ing.h.c.F.PorscheAktiengesellschaft" label="Dr.Ing.h.c.F.PorscheAktiengesellschaft" />
+      <node id="InnovativeSolutions&amp;Support,Inc." label="InnovativeSolutions&amp;Support,Inc." />
+      <node id="TextronInnovations,Inc." label="TextronInnovations,Inc." />
+      <node id="RandyL.Barton" label="RandyL.Barton" />
+      <node id="TracyL.Ogle" label="TracyL.Ogle" />
+      <node id="TEXTRONINNOVATIONSINC." label="TEXTRONINNOVATIONSINC." />
+      <node id="RaduAGeorgescu" label="RaduAGeorgescu" />
+      <node id="AdrianHojda" label="AdrianHojda" />
+      <node id="AirbusOperationsLimited." label="AirbusOperationsLimited." />
+      <node id="UniversityofScienceandTechnologyBeijing" label="UniversityofScienceandTechnologyBeijing" />
+      <node id="ZhuhaiXiangyiAviationTechnologyCompanyLTD." label="ZhuhaiXiangyiAviationTechnologyCompanyLTD." />
+      <node id="GENERALATOMICSAERONAUTICALSYSTEMS,INC." label="GENERALATOMICSAERONAUTICALSYSTEMS,INC." />
+      <node id="Air-ClenzSystems,LLC" label="Air-ClenzSystems,LLC" />
+      <node id="GulfstreamAerospaceCorporation" label="GulfstreamAerospaceCorporation" />
+      <node id="HONEYWELLINTERNATIONALINC." label="HONEYWELLINTERNATIONALINC." />
+      <node id="BEAerospace,Inc." label="BEAerospace,Inc." />
+      <node id="PrathameshKhedekar" label="PrathameshKhedekar" />
+      <node id="SharrowEngineeringLLC" label="SharrowEngineeringLLC" />
+      <node id="MaxarSpaceLLC" label="MaxarSpaceLLC" />
+      <node id="URBANSKYTHEORYINC." label="URBANSKYTHEORYINC." />
+      <node id="ROLLS-ROYCEplc" label="ROLLS-ROYCEplc" />
+      <node id="AlonGroupLtd." label="AlonGroupLtd." />
+      <node id="AUTOCLEANINGTOILETSEATL.L.C" label="AUTOCLEANINGTOILETSEATL.L.C" />
+      <node id="THEBOEINGCOMPANY" label="THEBOEINGCOMPANY" />
+      <node id="ScottCHarris" label="ScottCHarris" />
+      <node id="TOMORROW'SMOTIONGMBH" label="TOMORROW'SMOTIONGMBH" />
+      <node id="AirbusOperationsSAS" label="AirbusOperationsSAS" />
+      <node id="GoodrichActuationSystemsSAS" label="GoodrichActuationSystemsSAS" />
+      <node id="TomahawkRobotics" label="TomahawkRobotics" />
+      <node id="SWANSONGROUPAVIATION,LLC" label="SWANSONGROUPAVIATION,LLC" />
+      <node id="HAMILTONSUNDSTRANDCORPORATION" label="HAMILTONSUNDSTRANDCORPORATION" />
+    </nodes>
+    <edges>
+      <edge source="ExpressScriptsStrategicDevelopment,Inc." target="ExpressScriptsStrategicDevelopment,Inc." id="0" weight="16.0" />
+      <edge source="ExpressScriptsStrategicDevelopment,Inc." target="WorkhorseGroupInc." id="1" weight="48.0" />
+      <edge source="ExpressScriptsStrategicDevelopment,Inc." target="STATEFARMMUTUALAUTOMOBILEINSURANCECOMPANY" id="2" weight="16.0" />
+      <edge source="WorkhorseGroupInc." target="WorkhorseGroupInc." id="3" weight="144.0" />
+      <edge source="WorkhorseGroupInc." target="STATEFARMMUTUALAUTOMOBILEINSURANCECOMPANY" id="4" weight="48.0" />
+      <edge source="STATEFARMMUTUALAUTOMOBILEINSURANCECOMPANY" target="STATEFARMMUTUALAUTOMOBILEINSURANCECOMPANY" id="5" weight="32.0" />
+      <edge source="BETAAIR,LLC" target="BETAAIR,LLC" id="6" weight="625.0" />
+      <edge source="BETAAIR,LLC" target="ARCHERAVIATION,INC." id="7" weight="32.0" />
+      <edge source="BETAAIR,LLC" target="DariusSharifzadeh" id="8" weight="48.0" />
+      <edge source="BETAAIR,LLC" target="ArcherAviation,Inc." id="9" weight="16.0" />
+      <edge source="ARCHERAVIATION,INC." target="ARCHERAVIATION,INC." id="10" weight="16.0" />
+      <edge source="DariusSharifzadeh" target="DariusSharifzadeh" id="11" weight="16.0" />
+      <edge source="ArcherAviation,Inc." target="ArcherAviation,Inc." id="12" weight="32.0" />
+      <edge source="JBTAEROTECHCORPORATION" target="JBTAEROTECHCORPORATION" id="13" weight="16.0" />
+      <edge source="AIRBUSHELICOPTERS" target="AIRBUSHELICOPTERS" id="14" weight="16.0" />
+      <edge source="FERRARISPOWERCO.,LTD" target="FERRARISPOWERCO.,LTD" id="15" weight="16.0" />
+      <edge source="DRONEUP,LLC" target="DRONEUP,LLC" id="16" weight="16.0" />
+      <edge source="SZDJITECHNOLOGYCO.,LTD." target="SZDJITECHNOLOGYCO.,LTD." id="17" weight="57.0" />
+      <edge source="TextronInnovationsInc." target="TextronInnovationsInc." id="18" weight="105.0" />
+      <edge source="TextronInnovationsInc." target="ExodigoLtd." id="19" weight="32.0" />
+      <edge source="ExodigoLtd." target="ExodigoLtd." id="20" weight="16.0" />
+      <edge source="Skydio,Inc." target="Skydio,Inc." id="21" weight="16.0" />
+      <edge source="GEOFRENZY,INC." target="GEOFRENZY,INC." id="22" weight="16.0" />
+      <edge source="Overair,Inc." target="Overair,Inc." id="23" weight="16.0" />
+      <edge source="Overair,Inc." target="KittyHawkCorporation" id="24" weight="16.0" />
+      <edge source="KittyHawkCorporation" target="KittyHawkCorporation" id="25" weight="16.0" />
+      <edge source="JobyAero,Inc." target="JobyAero,Inc." id="26" weight="32.0" />
+      <edge source="HOODTECHNOLOGYCORPORATION" target="HOODTECHNOLOGYCORPORATION" id="27" weight="16.0" />
+      <edge source="ArcherAviationInc." target="ArcherAviationInc." id="28" weight="16.0" />
+      <edge source="LogiCom&amp;WirelessLtd." target="LogiCom&amp;WirelessLtd." id="29" weight="16.0" />
+      <edge source="JGENTREPRENEURIALENTERPRISESLLC" target="JGENTREPRENEURIALENTERPRISESLLC" id="30" weight="9.0" />
+      <edge source="ShanghaiAutoflightCo.,Ltd." target="ShanghaiAutoflightCo.,Ltd." id="31" weight="128.0" />
+      <edge source="Ampaire,Inc." target="Ampaire,Inc." id="32" weight="16.0" />
+      <edge source="UnmannedAerospaceLLC" target="UnmannedAerospaceLLC" id="33" weight="16.0" />
+      <edge source="HONDAMOTORCO.,LTD." target="HONDAMOTORCO.,LTD." id="34" weight="16.0" />
+      <edge source="LowentalHybrid" target="LowentalHybrid" id="35" weight="16.0" />
+      <edge source="TOYOTAMOTORENGINEERING&amp;MANUFACTURINGNORTHAMERICA,INC." target="TOYOTAMOTORENGINEERING&amp;MANUFACTURINGNORTHAMERICA,INC." id="36" weight="16.0" />
+      <edge source="UATC,LLC" target="UATC,LLC" id="37" weight="16.0" />
+      <edge source="JalalBolouri" target="JalalBolouri" id="38" weight="16.0" />
+      <edge source="TransnormSystemGmbH" target="TransnormSystemGmbH" id="39" weight="16.0" />
+      <edge source="BlueHalo,LLC" target="BlueHalo,LLC" id="40" weight="16.0" />
+      <edge source="CHENGDUQINCHUANIOTTECHNOLOGYCO.,LTD." target="CHENGDUQINCHUANIOTTECHNOLOGYCO.,LTD." id="41" weight="16.0" />
+      <edge source="OleksandrVolodymyrovychSTEPURA" target="OleksandrVolodymyrovychSTEPURA" id="42" weight="16.0" />
+      <edge source="OleksandrVolodymyrovychSTEPURA" target="MykolaMykolaiovychTOPTUN" id="43" weight="16.0" />
+      <edge source="MykolaMykolaiovychTOPTUN" target="MykolaMykolaiovychTOPTUN" id="44" weight="16.0" />
+      <edge source="NATIONALUNIVERSITYOFDEFENSETECHNOLOGY" target="NATIONALUNIVERSITYOFDEFENSETECHNOLOGY" id="45" weight="16.0" />
+      <edge source="NXPAeronauticsResearch,LLC" target="NXPAeronauticsResearch,LLC" id="46" weight="16.0" />
+      <edge source="DisneyEnterprises,Inc." target="DisneyEnterprises,Inc." id="47" weight="16.0" />
+      <edge source="MITSUBISHIHEAVYINDUSTRIES,LTD." target="MITSUBISHIHEAVYINDUSTRIES,LTD." id="48" weight="16.0" />
+      <edge source="GeneralElectricCompany" target="GeneralElectricCompany" id="49" weight="32.0" />
+      <edge source="1AHEADTechnologies" target="1AHEADTechnologies" id="50" weight="64.0" />
+      <edge source="CandoDronesLtd." target="CandoDronesLtd." id="51" weight="16.0" />
+      <edge source="NelsonTyler" target="NelsonTyler" id="52" weight="16.0" />
+      <edge source="AndrewWise" target="AndrewWise" id="53" weight="16.0" />
+      <edge source="CharterCommunicationsOperating,LLC" target="CharterCommunicationsOperating,LLC" id="54" weight="16.0" />
+      <edge source="DeepScience,LLC" target="DeepScience,LLC" id="55" weight="64.0" />
+      <edge source="HamiltonSundstrandCorporation" target="HamiltonSundstrandCorporation" id="56" weight="25.0" />
+      <edge source="TheUnitedStatesofAmericaasrepresentedbytheSecretaryoftheNavy" target="TheUnitedStatesofAmericaasrepresentedbytheSecretaryoftheNavy" id="57" weight="64.0" />
+      <edge source="Ensign-BickfordAerospace&amp;DefenseCompany" target="Ensign-BickfordAerospace&amp;DefenseCompany" id="58" weight="16.0" />
+      <edge source="NeilButtermore" target="NeilButtermore" id="59" weight="16.0" />
+      <edge source="TheUnitedStatesofAmerica,asrepresentedbytheSecretaryoftheNavy" target="TheUnitedStatesofAmerica,asrepresentedbytheSecretaryoftheNavy" id="60" weight="16.0" />
+      <edge source="MistMobilityIntegratedSystemsTechnologyInc." target="MistMobilityIntegratedSystemsTechnologyInc." id="61" weight="16.0" />
+      <edge source="CameronCarnegie" target="CameronCarnegie" id="62" weight="16.0" />
+      <edge source="AIRBUSHELICOPTERSDEUTSCHLANDGMBH" target="AIRBUSHELICOPTERSDEUTSCHLANDGMBH" id="63" weight="16.0" />
+      <edge source="CalectiveLLC" target="CalectiveLLC" id="64" weight="16.0" />
+      <edge source="HyundaiMotorCompany" target="HyundaiMotorCompany" id="65" weight="16.0" />
+      <edge source="HyundaiMotorCompany" target="KiaCorporation" id="66" weight="16.0" />
+      <edge source="KiaCorporation" target="KiaCorporation" id="67" weight="16.0" />
+      <edge source="TheBoeingCompany" target="TheBoeingCompany" id="68" weight="32.0" />
+      <edge source="RAYTHEONTECHNOLOGIESCORPORATION" target="RAYTHEONTECHNOLOGIESCORPORATION" id="69" weight="16.0" />
+      <edge source="TsinghuaUniversity" target="TsinghuaUniversity" id="70" weight="16.0" />
+      <edge source="ANARKYLABSOY" target="ANARKYLABSOY" id="71" weight="16.0" />
+      <edge source="MerlinLabs,Inc." target="MerlinLabs,Inc." id="72" weight="64.0" />
+      <edge source="Rolls-RoyceDeutschlandLtd&amp;CoKG" target="Rolls-RoyceDeutschlandLtd&amp;CoKG" id="73" weight="32.0" />
+      <edge source="HoneywellInternationalInc." target="HoneywellInternationalInc." id="74" weight="16.0" />
+      <edge source="PierceCraftIPLtd." target="PierceCraftIPLtd." id="75" weight="32.0" />
+      <edge source="REGENTCraftInc." target="REGENTCraftInc." id="76" weight="16.0" />
+      <edge source="THE28THRESEARCHINSTITUTEOFCHINAELECTRONICSTECHNOLOGYGROUPCORPORATION" target="THE28THRESEARCHINSTITUTEOFCHINAELECTRONICSTECHNOLOGYGROUPCORPORATION" id="77" weight="16.0" />
+      <edge source="HotaluX,Ltd." target="HotaluX,Ltd." id="78" weight="32.0" />
+      <edge source="SOUTHEASTUNIVERSITY" target="SOUTHEASTUNIVERSITY" id="79" weight="16.0" />
+      <edge source="ZIMAIRCRAFTSEATINGGMBH" target="ZIMAIRCRAFTSEATINGGMBH" id="80" weight="16.0" />
+      <edge source="RaffelSystems,LLC" target="RaffelSystems,LLC" id="81" weight="16.0" />
+      <edge source="IlyaDanielRosenberg" target="IlyaDanielRosenberg" id="82" weight="16.0" />
+      <edge source="JohnDanielRomo" target="JohnDanielRomo" id="83" weight="16.0" />
+      <edge source="RaytheonTechnologiesCorporation" target="RaytheonTechnologiesCorporation" id="84" weight="16.0" />
+      <edge source="Dr.Ing.h.c.F.PorscheAktiengesellschaft" target="Dr.Ing.h.c.F.PorscheAktiengesellschaft" id="85" weight="16.0" />
+      <edge source="InnovativeSolutions&amp;Support,Inc." target="InnovativeSolutions&amp;Support,Inc." id="86" weight="16.0" />
+      <edge source="TextronInnovations,Inc." target="TextronInnovations,Inc." id="87" weight="16.0" />
+      <edge source="RandyL.Barton" target="RandyL.Barton" id="88" weight="16.0" />
+      <edge source="RandyL.Barton" target="TracyL.Ogle" id="89" weight="16.0" />
+      <edge source="TracyL.Ogle" target="TracyL.Ogle" id="90" weight="16.0" />
+      <edge source="TEXTRONINNOVATIONSINC." target="TEXTRONINNOVATIONSINC." id="91" weight="16.0" />
+      <edge source="RaduAGeorgescu" target="RaduAGeorgescu" id="92" weight="16.0" />
+      <edge source="RaduAGeorgescu" target="AdrianHojda" id="93" weight="16.0" />
+      <edge source="AdrianHojda" target="AdrianHojda" id="94" weight="16.0" />
+      <edge source="AirbusOperationsLimited." target="AirbusOperationsLimited." id="95" weight="1.0" />
+      <edge source="UniversityofScienceandTechnologyBeijing" target="UniversityofScienceandTechnologyBeijing" id="96" weight="32.0" />
+      <edge source="ZhuhaiXiangyiAviationTechnologyCompanyLTD." target="ZhuhaiXiangyiAviationTechnologyCompanyLTD." id="97" weight="16.0" />
+      <edge source="GENERALATOMICSAERONAUTICALSYSTEMS,INC." target="GENERALATOMICSAERONAUTICALSYSTEMS,INC." id="98" weight="16.0" />
+      <edge source="Air-ClenzSystems,LLC" target="Air-ClenzSystems,LLC" id="99" weight="16.0" />
+      <edge source="GulfstreamAerospaceCorporation" target="GulfstreamAerospaceCorporation" id="100" weight="16.0" />
+      <edge source="HONEYWELLINTERNATIONALINC." target="HONEYWELLINTERNATIONALINC." id="101" weight="16.0" />
+      <edge source="BEAerospace,Inc." target="BEAerospace,Inc." id="102" weight="16.0" />
+      <edge source="PrathameshKhedekar" target="PrathameshKhedekar" id="103" weight="16.0" />
+      <edge source="SharrowEngineeringLLC" target="SharrowEngineeringLLC" id="104" weight="16.0" />
+      <edge source="MaxarSpaceLLC" target="MaxarSpaceLLC" id="105" weight="16.0" />
+      <edge source="URBANSKYTHEORYINC." target="URBANSKYTHEORYINC." id="106" weight="16.0" />
+      <edge source="ROLLS-ROYCEplc" target="ROLLS-ROYCEplc" id="107" weight="16.0" />
+      <edge source="AlonGroupLtd." target="AlonGroupLtd." id="108" weight="16.0" />
+      <edge source="AUTOCLEANINGTOILETSEATL.L.C" target="AUTOCLEANINGTOILETSEATL.L.C" id="109" weight="16.0" />
+      <edge source="THEBOEINGCOMPANY" target="THEBOEINGCOMPANY" id="110" weight="16.0" />
+      <edge source="ScottCHarris" target="ScottCHarris" id="111" weight="16.0" />
+      <edge source="TOMORROW'SMOTIONGMBH" target="TOMORROW'SMOTIONGMBH" id="112" weight="16.0" />
+      <edge source="AirbusOperationsSAS" target="AirbusOperationsSAS" id="113" weight="16.0" />
+      <edge source="GoodrichActuationSystemsSAS" target="GoodrichActuationSystemsSAS" id="114" weight="16.0" />
+      <edge source="TomahawkRobotics" target="TomahawkRobotics" id="115" weight="16.0" />
+      <edge source="SWANSONGROUPAVIATION,LLC" target="SWANSONGROUPAVIATION,LLC" id="116" weight="16.0" />
+      <edge source="HAMILTONSUNDSTRANDCORPORATION" target="HAMILTONSUNDSTRANDCORPORATION" id="117" weight="25.0" />
+    </edges>
+  </graph>
+</gexf>

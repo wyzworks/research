@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-08-07">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="인하공업전문대학산학협력단" label="인하공업전문대학산학협력단" />
+      <node id="한국항공우주산업주식회사" label="한국항공우주산업주식회사" />
+      <node id="이스라엘에어로스페이스인더스트리즈리미티드" label="이스라엘에어로스페이스인더스트리즈리미티드" />
+      <node id="(주)픽소니어" label="(주)픽소니어" />
+      <node id="국방과학연구소" label="국방과학연구소" />
+      <node id="주식회사지오스토리" label="주식회사지오스토리" />
+      <node id="(주)신한항업" label="(주)신한항업" />
+      <node id="주식회사풍산" label="주식회사풍산" />
+      <node id="한국항공우주연구원" label="한국항공우주연구원" />
+      <node id="퍼스텍주식회사" label="퍼스텍주식회사" />
+      <node id="한국해양과학기술원" label="한국해양과학기술원" />
+      <node id="한국공항공사" label="한국공항공사" />
+      <node id="장수영" label="장수영" />
+      <node id="인천국제공항공사" label="인천국제공항공사" />
+      <node id="서진공조(주)" label="서진공조(주)" />
+      <node id="이화전기공업주식회사" label="이화전기공업주식회사" />
+      <node id="삼아항업(주)" label="삼아항업(주)" />
+      <node id="건국대학교산학협력단" label="건국대학교산학협력단" />
+      <node id="로오드코포레이션" label="로오드코포레이션" />
+      <node id="주식회사한국에스지티" label="주식회사한국에스지티" />
+      <node id="주식회사첨단공간정보" label="주식회사첨단공간정보" />
+      <node id="제일항업(주)" label="제일항업(주)" />
+      <node id="닛본덴끼가부시끼가이샤" label="닛본덴끼가부시끼가이샤" />
+      <node id="엘아이지넥스원주식회사" label="엘아이지넥스원주식회사" />
+      <node id="한화시스템주식회사" label="한화시스템주식회사" />
+      <node id="사프란헬리콥터엔진스" label="사프란헬리콥터엔진스" />
+      <node id="에어버스헬리콥터스" label="에어버스헬리콥터스" />
+      <node id="구정" label="구정" />
+    </nodes>
+    <edges>
+      <edge source="인하공업전문대학산학협력단" target="인하공업전문대학산학협력단" id="0" weight="1.0" />
+      <edge source="한국항공우주산업주식회사" target="한국항공우주산업주식회사" id="1" weight="14.0" />
+      <edge source="한국항공우주산업주식회사" target="이스라엘에어로스페이스인더스트리즈리미티드" id="2" weight="1.0" />
+      <edge source="한국항공우주산업주식회사" target="(주)픽소니어" id="3" weight="4.0" />
+      <edge source="이스라엘에어로스페이스인더스트리즈리미티드" target="이스라엘에어로스페이스인더스트리즈리미티드" id="4" weight="7.0" />
+      <edge source="(주)픽소니어" target="(주)픽소니어" id="5" weight="4.0" />
+      <edge source="국방과학연구소" target="국방과학연구소" id="6" weight="1.0" />
+      <edge source="주식회사지오스토리" target="주식회사지오스토리" id="7" weight="2.0" />
+      <edge source="(주)신한항업" target="(주)신한항업" id="8" weight="1.0" />
+      <edge source="주식회사풍산" target="주식회사풍산" id="9" weight="1.0" />
+      <edge source="한국항공우주연구원" target="한국항공우주연구원" id="10" weight="4.0" />
+      <edge source="퍼스텍주식회사" target="퍼스텍주식회사" id="11" weight="3.0" />
+      <edge source="한국해양과학기술원" target="한국해양과학기술원" id="12" weight="1.0" />
+      <edge source="한국공항공사" target="한국공항공사" id="13" weight="2.0" />
+      <edge source="장수영" target="장수영" id="14" weight="1.0" />
+      <edge source="인천국제공항공사" target="인천국제공항공사" id="15" weight="2.0" />
+      <edge source="인천국제공항공사" target="서진공조(주)" id="16" weight="1.0" />
+      <edge source="인천국제공항공사" target="이화전기공업주식회사" id="17" weight="1.0" />
+      <edge source="서진공조(주)" target="서진공조(주)" id="18" weight="1.0" />
+      <edge source="이화전기공업주식회사" target="이화전기공업주식회사" id="19" weight="1.0" />
+      <edge source="삼아항업(주)" target="삼아항업(주)" id="20" weight="1.0" />
+      <edge source="건국대학교산학협력단" target="건국대학교산학협력단" id="21" weight="2.0" />
+      <edge source="로오드코포레이션" target="로오드코포레이션" id="22" weight="1.0" />
+      <edge source="주식회사한국에스지티" target="주식회사한국에스지티" id="23" weight="1.0" />
+      <edge source="주식회사첨단공간정보" target="주식회사첨단공간정보" id="24" weight="2.0" />
+      <edge source="주식회사첨단공간정보" target="제일항업(주)" id="25" weight="1.0" />
+      <edge source="제일항업(주)" target="제일항업(주)" id="26" weight="1.0" />
+      <edge source="닛본덴끼가부시끼가이샤" target="닛본덴끼가부시끼가이샤" id="27" weight="1.0" />
+      <edge source="엘아이지넥스원주식회사" target="엘아이지넥스원주식회사" id="28" weight="4.0" />
+      <edge source="한화시스템주식회사" target="한화시스템주식회사" id="29" weight="1.0" />
+      <edge source="사프란헬리콥터엔진스" target="사프란헬리콥터엔진스" id="30" weight="2.0" />
+      <edge source="에어버스헬리콥터스" target="에어버스헬리콥터스" id="31" weight="1.0" />
+      <edge source="구정" target="구정" id="32" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

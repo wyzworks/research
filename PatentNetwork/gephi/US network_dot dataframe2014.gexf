@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-08-06">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Niederberger-EngineeringAG" label="Niederberger-EngineeringAG" />
+      <node id="AmazonTechnologies,Inc." label="AmazonTechnologies,Inc." />
+      <node id="TheUnitedStatesofAmericaasRepresentedbytheAdministratorofNASA" label="TheUnitedStatesofAmericaasRepresentedbytheAdministratorofNASA" />
+      <node id="ZodiacSeatsFrance" label="ZodiacSeatsFrance" />
+      <node id="RECAROAircraftSeatingGmbH&amp;Co.KG" label="RECAROAircraftSeatingGmbH&amp;Co.KG" />
+      <node id="UnitedParcelServiceofAmerica,Inc." label="UnitedParcelServiceofAmerica,Inc." />
+      <node id="TheBoeingCompany" label="TheBoeingCompany" />
+      <node id="Latecoere" label="Latecoere" />
+      <node id="JPR" label="JPR" />
+      <node id="LATECOERE" label="LATECOERE" />
+      <node id="SABICGLOBALTECHNOLOGIESB.V." label="SABICGLOBALTECHNOLOGIESB.V." />
+      <node id="B/EAerospace,Inc." label="B/EAerospace,Inc." />
+      <node id="RockwellCollins,Inc." label="RockwellCollins,Inc." />
+      <node id="JEFFREYA.MATOS" label="JEFFREYA.MATOS" />
+      <node id="IOANNISMICROS" label="IOANNISMICROS" />
+      <node id="AeroVironment,Inc." label="AeroVironment,Inc." />
+      <node id="VerizonPatentandLicensingInc." label="VerizonPatentandLicensingInc." />
+      <node id="SAFRANELECTRICAL&amp;POWER" label="SAFRANELECTRICAL&amp;POWER" />
+      <node id="AKTIEBOLAGETSKF" label="AKTIEBOLAGETSKF" />
+      <node id="FrederickM.Schwarz" label="FrederickM.Schwarz" />
+      <node id="GabrielL.Suciu" label="GabrielL.Suciu" />
+      <node id="BlueStormAssociates,Inc." label="BlueStormAssociates,Inc." />
+      <node id="SIKORSKYAIRCRAFTCORPORATION" label="SIKORSKYAIRCRAFTCORPORATION" />
+      <node id="WOBBENPROPERTIESGMBH" label="WOBBENPROPERTIESGMBH" />
+      <node id="WEIGHTREDUCTIONANDAEROSPACESECURITYPRODUCTSLIMITED" label="WEIGHTREDUCTIONANDAEROSPACESECURITYPRODUCTSLIMITED" />
+      <node id="GOODRICHLIGHTINGSYSTEMSGMBH" label="GOODRICHLIGHTINGSYSTEMSGMBH" />
+      <node id="TexasTechUniversitySystem" label="TexasTechUniversitySystem" />
+      <node id="nanoGriptech,Inc." label="nanoGriptech,Inc." />
+      <node id="BAESystemsplc" label="BAESystemsplc" />
+      <node id="AirbusHelicopters" label="AirbusHelicopters" />
+      <node id="LIQUIDROBOTICS,INC." label="LIQUIDROBOTICS,INC." />
+      <node id="AirbusOperations(S.A.S.)" label="AirbusOperations(S.A.S.)" />
+      <node id="InstitutPolytechniqueDeBordeaux" label="InstitutPolytechniqueDeBordeaux" />
+      <node id="CentreNationalDeLaRechercheScientifique" label="CentreNationalDeLaRechercheScientifique" />
+      <node id="UniversiteDeBordequx" label="UniversiteDeBordequx" />
+      <node id="HorizonHobby,LLC" label="HorizonHobby,LLC" />
+      <node id="THEBOEINGCOMPANY" label="THEBOEINGCOMPANY" />
+      <node id="NABTESCOCORPORATION" label="NABTESCOCORPORATION" />
+      <node id="AIRBUSOPERATIONSGMBH" label="AIRBUSOPERATIONSGMBH" />
+      <node id="AirbusOperationsGmbH" label="AirbusOperationsGmbH" />
+      <node id="UnitedTechnologiesCorporation" label="UnitedTechnologiesCorporation" />
+      <node id="PlanetLabs,Inc." label="PlanetLabs,Inc." />
+      <node id="SurewxInc." label="SurewxInc." />
+      <node id="BOMBARDIERINC." label="BOMBARDIERINC." />
+      <node id="HamiltonSundstrandCorporation" label="HamiltonSundstrandCorporation" />
+      <node id="HAMILTONSUNDSTRANDCORPORATION" label="HAMILTONSUNDSTRANDCORPORATION" />
+      <node id="BAESYSTEMSplc" label="BAESYSTEMSplc" />
+      <node id="SNECMA" label="SNECMA" />
+      <node id="RollsRoyceCorporation" label="RollsRoyceCorporation" />
+      <node id="MichaelC.Kollias" label="MichaelC.Kollias" />
+    </nodes>
+    <edges>
+      <edge source="Niederberger-EngineeringAG" target="Niederberger-EngineeringAG" id="0" weight="1.0" />
+      <edge source="AmazonTechnologies,Inc." target="AmazonTechnologies,Inc." id="1" weight="2.0" />
+      <edge source="TheUnitedStatesofAmericaasRepresentedbytheAdministratorofNASA" target="TheUnitedStatesofAmericaasRepresentedbytheAdministratorofNASA" id="2" weight="1.0" />
+      <edge source="ZodiacSeatsFrance" target="ZodiacSeatsFrance" id="3" weight="1.0" />
+      <edge source="RECAROAircraftSeatingGmbH&amp;Co.KG" target="RECAROAircraftSeatingGmbH&amp;Co.KG" id="4" weight="1.0" />
+      <edge source="UnitedParcelServiceofAmerica,Inc." target="UnitedParcelServiceofAmerica,Inc." id="5" weight="1.0" />
+      <edge source="TheBoeingCompany" target="TheBoeingCompany" id="6" weight="12.0" />
+      <edge source="Latecoere" target="Latecoere" id="7" weight="1.0" />
+      <edge source="Latecoere" target="JPR" id="8" weight="1.0" />
+      <edge source="JPR" target="JPR" id="9" weight="1.0" />
+      <edge source="LATECOERE" target="LATECOERE" id="10" weight="1.0" />
+      <edge source="SABICGLOBALTECHNOLOGIESB.V." target="SABICGLOBALTECHNOLOGIESB.V." id="11" weight="1.0" />
+      <edge source="B/EAerospace,Inc." target="B/EAerospace,Inc." id="12" weight="2.0" />
+      <edge source="RockwellCollins,Inc." target="RockwellCollins,Inc." id="13" weight="2.0" />
+      <edge source="JEFFREYA.MATOS" target="JEFFREYA.MATOS" id="14" weight="1.0" />
+      <edge source="IOANNISMICROS" target="IOANNISMICROS" id="15" weight="3.0" />
+      <edge source="AeroVironment,Inc." target="AeroVironment,Inc." id="16" weight="1.0" />
+      <edge source="VerizonPatentandLicensingInc." target="VerizonPatentandLicensingInc." id="17" weight="1.0" />
+      <edge source="SAFRANELECTRICAL&amp;POWER" target="SAFRANELECTRICAL&amp;POWER" id="18" weight="1.0" />
+      <edge source="AKTIEBOLAGETSKF" target="AKTIEBOLAGETSKF" id="19" weight="1.0" />
+      <edge source="FrederickM.Schwarz" target="FrederickM.Schwarz" id="20" weight="1.0" />
+      <edge source="FrederickM.Schwarz" target="GabrielL.Suciu" id="21" weight="1.0" />
+      <edge source="GabrielL.Suciu" target="GabrielL.Suciu" id="22" weight="1.0" />
+      <edge source="BlueStormAssociates,Inc." target="BlueStormAssociates,Inc." id="23" weight="1.0" />
+      <edge source="SIKORSKYAIRCRAFTCORPORATION" target="SIKORSKYAIRCRAFTCORPORATION" id="24" weight="1.0" />
+      <edge source="WOBBENPROPERTIESGMBH" target="WOBBENPROPERTIESGMBH" id="25" weight="1.0" />
+      <edge source="WEIGHTREDUCTIONANDAEROSPACESECURITYPRODUCTSLIMITED" target="WEIGHTREDUCTIONANDAEROSPACESECURITYPRODUCTSLIMITED" id="26" weight="1.0" />
+      <edge source="GOODRICHLIGHTINGSYSTEMSGMBH" target="GOODRICHLIGHTINGSYSTEMSGMBH" id="27" weight="4.0" />
+      <edge source="TexasTechUniversitySystem" target="TexasTechUniversitySystem" id="28" weight="1.0" />
+      <edge source="TexasTechUniversitySystem" target="nanoGriptech,Inc." id="29" weight="1.0" />
+      <edge source="nanoGriptech,Inc." target="nanoGriptech,Inc." id="30" weight="1.0" />
+      <edge source="BAESystemsplc" target="BAESystemsplc" id="31" weight="1.0" />
+      <edge source="AirbusHelicopters" target="AirbusHelicopters" id="32" weight="1.0" />
+      <edge source="LIQUIDROBOTICS,INC." target="LIQUIDROBOTICS,INC." id="33" weight="1.0" />
+      <edge source="AirbusOperations(S.A.S.)" target="AirbusOperations(S.A.S.)" id="34" weight="2.0" />
+      <edge source="AirbusOperations(S.A.S.)" target="InstitutPolytechniqueDeBordeaux" id="35" weight="1.0" />
+      <edge source="AirbusOperations(S.A.S.)" target="CentreNationalDeLaRechercheScientifique" id="36" weight="1.0" />
+      <edge source="AirbusOperations(S.A.S.)" target="UniversiteDeBordequx" id="37" weight="1.0" />
+      <edge source="InstitutPolytechniqueDeBordeaux" target="InstitutPolytechniqueDeBordeaux" id="38" weight="1.0" />
+      <edge source="InstitutPolytechniqueDeBordeaux" target="CentreNationalDeLaRechercheScientifique" id="39" weight="1.0" />
+      <edge source="InstitutPolytechniqueDeBordeaux" target="UniversiteDeBordequx" id="40" weight="1.0" />
+      <edge source="CentreNationalDeLaRechercheScientifique" target="CentreNationalDeLaRechercheScientifique" id="41" weight="1.0" />
+      <edge source="CentreNationalDeLaRechercheScientifique" target="UniversiteDeBordequx" id="42" weight="1.0" />
+      <edge source="UniversiteDeBordequx" target="UniversiteDeBordequx" id="43" weight="1.0" />
+      <edge source="HorizonHobby,LLC" target="HorizonHobby,LLC" id="44" weight="1.0" />
+      <edge source="THEBOEINGCOMPANY" target="THEBOEINGCOMPANY" id="45" weight="2.0" />
+      <edge source="NABTESCOCORPORATION" target="NABTESCOCORPORATION" id="46" weight="1.0" />
+      <edge source="AIRBUSOPERATIONSGMBH" target="AIRBUSOPERATIONSGMBH" id="47" weight="2.0" />
+      <edge source="AirbusOperationsGmbH" target="AirbusOperationsGmbH" id="48" weight="2.0" />
+      <edge source="UnitedTechnologiesCorporation" target="UnitedTechnologiesCorporation" id="49" weight="1.0" />
+      <edge source="PlanetLabs,Inc." target="PlanetLabs,Inc." id="50" weight="1.0" />
+      <edge source="SurewxInc." target="SurewxInc." id="51" weight="1.0" />
+      <edge source="BOMBARDIERINC." target="BOMBARDIERINC." id="52" weight="1.0" />
+      <edge source="HamiltonSundstrandCorporation" target="HamiltonSundstrandCorporation" id="53" weight="1.0" />
+      <edge source="HAMILTONSUNDSTRANDCORPORATION" target="HAMILTONSUNDSTRANDCORPORATION" id="54" weight="1.0" />
+      <edge source="BAESYSTEMSplc" target="BAESYSTEMSplc" id="55" weight="1.0" />
+      <edge source="SNECMA" target="SNECMA" id="56" weight="1.0" />
+      <edge source="RollsRoyceCorporation" target="RollsRoyceCorporation" id="57" weight="1.0" />
+      <edge source="MichaelC.Kollias" target="MichaelC.Kollias" id="58" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

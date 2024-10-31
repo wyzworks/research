@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-08-07">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="사프란헬리콥터엔진스" label="사프란헬리콥터엔진스" />
+      <node id="한국항공우주산업주식회사" label="한국항공우주산업주식회사" />
+      <node id="경상국립대학교산학협력단" label="경상국립대학교산학협력단" />
+      <node id="한국과학기술연구원" label="한국과학기술연구원" />
+      <node id="주식회사미래융합연구원" label="주식회사미래융합연구원" />
+      <node id="이수열" label="이수열" />
+      <node id="한국공항공사" label="한국공항공사" />
+      <node id="(주)아모스텍" label="(주)아모스텍" />
+      <node id="새한항업(주)" label="새한항업(주)" />
+      <node id="한국전자통신연구원" label="한국전자통신연구원" />
+      <node id="재단법인대구경북과학기술원" label="재단법인대구경북과학기술원" />
+      <node id="한국해양과학기술원" label="한국해양과학기술원" />
+      <node id="한국항공우주연구원" label="한국항공우주연구원" />
+      <node id="로오드코포레이션" label="로오드코포레이션" />
+      <node id="에어버스헬리콥터스" label="에어버스헬리콥터스" />
+      <node id="에어버스헬리콥터스도이칠란트게엠베하" label="에어버스헬리콥터스도이칠란트게엠베하" />
+      <node id="현대로템주식회사" label="현대로템주식회사" />
+    </nodes>
+    <edges>
+      <edge source="사프란헬리콥터엔진스" target="사프란헬리콥터엔진스" id="0" weight="1.0" />
+      <edge source="한국항공우주산업주식회사" target="한국항공우주산업주식회사" id="1" weight="12.0" />
+      <edge source="경상국립대학교산학협력단" target="경상국립대학교산학협력단" id="2" weight="1.0" />
+      <edge source="한국과학기술연구원" target="한국과학기술연구원" id="3" weight="1.0" />
+      <edge source="주식회사미래융합연구원" target="주식회사미래융합연구원" id="4" weight="1.0" />
+      <edge source="주식회사미래융합연구원" target="이수열" id="5" weight="1.0" />
+      <edge source="이수열" target="이수열" id="6" weight="1.0" />
+      <edge source="한국공항공사" target="한국공항공사" id="7" weight="1.0" />
+      <edge source="(주)아모스텍" target="(주)아모스텍" id="8" weight="1.0" />
+      <edge source="새한항업(주)" target="새한항업(주)" id="9" weight="1.0" />
+      <edge source="한국전자통신연구원" target="한국전자통신연구원" id="10" weight="1.0" />
+      <edge source="재단법인대구경북과학기술원" target="재단법인대구경북과학기술원" id="11" weight="1.0" />
+      <edge source="한국해양과학기술원" target="한국해양과학기술원" id="12" weight="1.0" />
+      <edge source="한국항공우주연구원" target="한국항공우주연구원" id="13" weight="2.0" />
+      <edge source="로오드코포레이션" target="로오드코포레이션" id="14" weight="8.0" />
+      <edge source="에어버스헬리콥터스" target="에어버스헬리콥터스" id="15" weight="3.0" />
+      <edge source="에어버스헬리콥터스" target="에어버스헬리콥터스도이칠란트게엠베하" id="16" weight="2.0" />
+      <edge source="에어버스헬리콥터스도이칠란트게엠베하" target="에어버스헬리콥터스도이칠란트게엠베하" id="17" weight="2.0" />
+      <edge source="현대로템주식회사" target="현대로템주식회사" id="18" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>
